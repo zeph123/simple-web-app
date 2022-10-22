@@ -1,0 +1,13 @@
+{
+  "name": "simple_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Zygmunt Łata <zygmunt.lata@pollub.edu.pl>",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
